@@ -1,0 +1,7 @@
+{
+    "env": {
+        "mongoDatabase": "Cluster-graph" ,
+        "mongoUserName": "nivedhaa",
+        "mongoUserPassword": "m1tIoZPhf8j7UZxQ"
+    }
+}
